@@ -62,7 +62,7 @@ window.CONFIG = {
   pix: {
     ativo: true,
     chave: "27gomesgarciathais@gmail.com",
-    posicao: {"left":16.8,"top":64.0,"width":66.0,"height":8.2}
+    posicao: {"left":14.755271565495208,"top":65.95627242012556,"width":69.47603209864218,"height":9.695975867584616}
   },
 
   // ----- TEXTOS DOS BOTÕES -----------------------------------------------
@@ -89,9 +89,9 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":55.0,"height":7.8} },
-    dresscode: { mostrarTexto:true, posicao: {"left":26.805437549920125,"top":86.88550214891683,"width":46.581485248602235,"height":5.424627114446271} },
-    manual: { mostrarTexto:true, posicao: {"left":25.783057732627793,"top":85.2744510457582,"width":47.80830358925719,"height":5.309555171188598} }
+    presentes: { mostrarTexto:false, posicao: {"left":23.177635782747604,"top":81.98895987122916,"width":52.54633211861022,"height":6.879406894918129} },
+    dresscode: { mostrarTexto:false, posicao: {"left":25.169664162340254,"top":89.76237206387937,"width":50.05753294728434,"height":5.309554073749817} },
+    manual: { mostrarTexto:false, posicao: {"left":24.965163238817887,"top":88.4965400828101,"width":50.057501747204476,"height":6.2301482762704685} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -100,11 +100,11 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:19.111031037141306, top:63.8032059022128, width:15.963035699920129, height:8.57238650880756 },
-        map: { left:42.3313764835857, top:64.03332543810177, width:15.611963461541478, height:8.522989476077747 },
-        gift: { left:64.6203873670928, top:63.907444274051855, width:16.091044953075077, height:8.643484137471408 },
-        dress: { left:30.670926517571885, top:77.02597723193821, width:15.682105506190094, height:8.298251846116688 },
-        manual: { left:53.98780574768387, top:76.56567628964217, width:16.29551467651757, height:8.528402317264716 }
+        confirm: { left:12.976845733626929, top:54.482140354125974, width:18.82564302819489, height:10.183435417088631 },
+        map: { left:40.4911177725234, top:54.82734171022164, width:18.679056113298667, height:9.213445279276948 },
+        gift: { left:68.09643506577491, top:54.701464935926836, width:19.362607328274756, height:10.139455615300905 },
+        dress: { left:24.127801767172524, top:70.58179037832417, width:19.97603209864217, height:10.829902638989868 },
+        manual: { left:54.805700241493774, top:70.58178598856905, width:20.18050182208466, height:10.829898249234748 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
